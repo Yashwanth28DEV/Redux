@@ -1,0 +1,1 @@
+created using redux where we can partially analyze the store state ,where we use redux methods .whenever an action is dispatched reducer will be called where by getstate() method we can get the updated state.
